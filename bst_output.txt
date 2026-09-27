@@ -1,0 +1,13 @@
+Government Identification Database - BST
+Insertion order: A102 A25 A7 B100 B12 A120 B3 A45
+
+Inorder traversal: A120 A102 A25 A45 A7 B100 B12 B3
+
+BST Search Comparison Counts
+--------------------------------
+Key     Comparisons
+A102    1
+A120    2
+A45     3
+B3      4
+A7      3

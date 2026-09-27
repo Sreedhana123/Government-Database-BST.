@@ -1,0 +1,5 @@
+# Compiled executables
+*.exe
+bst
+linear_search
+combined

@@ -1,0 +1,11 @@
+Government Identification Database - Linear Search
+Insertion/input order: A102 A25 A7 B100 B12 A120 B3 A45
+
+Linear Search Comparison Counts
+----------------------------------
+Key     Comparisons
+A102    1
+A120    6
+A45     8
+B3      7
+A7      3
